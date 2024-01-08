@@ -1,0 +1,10 @@
+Flask
+Flask-Restful
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-cors
+python-dotenv
+celery
+redis
+Flask-mail
+Flask-Caching
