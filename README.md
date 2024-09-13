@@ -1,7 +1,7 @@
-#Intoduction
+# Intoduction
 This project is a multi-user application designed for buying grocery items. Users can purchase multiple products from one or multiple sections/categories. The admin can manage categories and products. The application supports Role-Based Access Control (RBAC) and includes backend job scheduling for various tasks.
 
-#Features
+# Features
 User authentication and authorization with three roles.
 Admin can add, delete, and edit categories and products.
 Users can purchase products from multiple categories.
